@@ -12,6 +12,7 @@
 
 <body>
     <p>Place a paragraph here and use GIT to update</p>
+    <p>Here is another change to push to the master branch</p>
     <canvas id="myCanvas" width="200" height="100"
         style="border: 1px solid #d3d3d3;">our browser does not support the canvas element.
     </canvas>
