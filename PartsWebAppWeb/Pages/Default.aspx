@@ -7,11 +7,11 @@
 
     <script src="../Scripts/myCanvas.js"></script>
 
-    <title>Load the Script in the Header Tag</title>
+    <title>Do a push and test it to github</title>
 </head>
 
 <body>
-
+    <p>Place a paragraph here and use GIT to update</p>
     <canvas id="myCanvas" width="200" height="100"
         style="border: 1px solid #d3d3d3;">our browser does not support the canvas element.
     </canvas>
