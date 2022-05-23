@@ -5,17 +5,25 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-    <script src="../Scripts/myCanvas.js"></script>
+    <script src="../Scripts/2_fragment_shader.js"></script>
+    <script src="../Scripts/2_vertex_code.js"></script>
+    <script src="../Scripts/2_webgl.js"></script>
 
-    <title>Do a push and test it to github</title>
+
+    <title>Here are some major changes to the StolleBranch</title>
 </head>
 
 <body>
     <p>Place a paragraph here and use GIT to update</p>
     <p>Here is another change to push to the master branch</p>
-    <canvas id="myCanvas" width="200" height="100"
-        style="border: 1px solid #d3d3d3;">our browser does not support the canvas element.
-    </canvas>
+    <p>Let's add another paragraph</p>
+    <p>And another paragraph</p>
+
+    <div class="center">
+        <canvas id="canvas" width="400" height="400"
+            style="border: 1px solid #d3d3d3;">our browser does not support the canvas element.
+        </canvas>
+    </div>
 
 </body>
 </html>

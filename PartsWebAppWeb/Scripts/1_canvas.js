@@ -1,5 +1,5 @@
 ﻿document.addEventListener('DOMContentLoaded', function (event) {
-    var canvas = document.getElementById('myCanvas');
+    var canvas = document.getElementById('canvas');
     var context = canvas.getContext('2d');
 
     if (context) {

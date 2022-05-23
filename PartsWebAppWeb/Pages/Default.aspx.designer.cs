@@ -7,9 +7,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PartsWebAppWeb {
-    
-    
-    public partial class Default {
+namespace PartsWebAppWeb
+{
+
+
+    public partial class Default
+    {
     }
+
 }

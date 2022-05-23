@@ -122,9 +122,13 @@
     <Content Include="Global.asax" />
     <Content Include="Pages\Default.aspx" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="Scripts\2_webgl.js" />
+    <Content Include="Scripts\2_fragment_shader.js" />
+    <Content Include="Scripts\3_three.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
-    <Content Include="Scripts\myCanvas.js" />
+    <Content Include="Scripts\1_canvas.js" />
+    <Content Include="Scripts\2_vertex_code.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
