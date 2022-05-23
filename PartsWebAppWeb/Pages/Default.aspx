@@ -18,6 +18,7 @@
     <p>Here is another change to push to the master branch</p>
     <p>Let's add another paragraph</p>
     <p>And another paragraph</p>
+    <p>This change is from Home Branch</p>
 
     <div class="center">
         <canvas id="canvas" width="400" height="400"
