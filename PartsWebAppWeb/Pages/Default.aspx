@@ -15,7 +15,7 @@
 
 <body>
     <p>Deleted All of that</p>
-    <p>If I make a change to the Master Branch</p>
+    <p>This is from local master branch</p>
 
     <div class="center">
         <canvas id="canvas" width="400" height="400"
