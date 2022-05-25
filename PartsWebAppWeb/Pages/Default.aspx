@@ -10,7 +10,7 @@
     <script src="../Scripts/2_webgl.js"></script>
 
 
-    <title>Here are some major changes to the StolleBranch</title>
+    <title>Sharepoint Provider Hosted Add In to Wrap Code</title>
 </head>
 
 <body>
