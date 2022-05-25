@@ -16,6 +16,8 @@
 <body>
     <p>Deleted All of that</p>
     <p>This is from local master branch</p>
+    <p>This is from home studio computer</p>
+    <p>Also added auto format</p>
 
     <div class="center">
         <canvas id="canvas" width="400" height="400"
